@@ -1,2 +1,3 @@
 # jhjh
-hi myy name isb iqra
+hi my name is iqra
+author iqra 
